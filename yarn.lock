@@ -2343,10 +2343,9 @@ react-dom@18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
-react-hook-form-mantine@^1.0.10:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/react-hook-form-mantine/-/react-hook-form-mantine-1.0.10.tgz#817c2715c5c7ad0f3512d47f8f42243fe727c142"
-  integrity sha512-sTKVZ31n5Waxt7B/U9u9EpfI1TVqKUV6MI+2W9h0XxbMbINR0n4/QmhBPJguHbyTOgWT8G0IgYDVZiqh/lUyYg==
+react-hook-form-mantine@jdt3969/react-hook-form-mantine#package:
+  version "1.0.0"
+  resolved "https://codeload.github.com/jdt3969/react-hook-form-mantine/tar.gz/02fd7134b1ba0308fee99ad4fe9cecaf369866d1"
 
 react-hook-form@^7.45.1:
   version "7.45.1"

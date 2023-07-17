@@ -23,7 +23,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.45.1",
-    "react-hook-form-mantine": "^1.0.10",
+    "react-hook-form-mantine": "jdt3969/react-hook-form-mantine#package",
     "typescript": "5.1.6"
   }
 }
